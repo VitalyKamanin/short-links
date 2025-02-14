@@ -1,0 +1,11 @@
+base:
+  url: clck.ru/
+shortlink:
+  length: 6
+link:
+  expiry:
+    hours: 24
+maxclicks: 3
+cleanup:
+  interval:
+    millis: 86400000
